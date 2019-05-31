@@ -2,7 +2,7 @@
 Name: Sean Fox
 Date: 5-30-19
 Class: CIT-130
-Purpose: Assignment 4, Part 1 - Create two wrapper classes to identify the difference between deep and shallow copying.
+Purpose: Assignment 4, Part 1 - Create a shallow wrapper class.
 */
 
 public class WrapperShallow {
